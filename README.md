@@ -1,4 +1,4 @@
-#Capstone: Understanding Employee Attrition
+**Topic:** Understanding Employee Attrition
 
 **Overview:**
 Employees are the most important and expensive asset of any organization.
@@ -9,12 +9,24 @@ Mindset has shifted, employees are looking for more than just compensation. They
 To identify the important features that make employees more likely to leave and use the insights to produce action plans to mitigate attrition.
 
 ## Process
-| Process           | Details                                                                                                                                               |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Data Preparation  | Data Extraction, Data Cleaning, Data Merging                                                                                                          |
-| Data Manipulation | Feature Engineering, Data Preprocessing                                                                                                               |
-| Modelling         | Models (Bernoulli, Logistic Regression, Random Forest, Extra Trees, Light GBM, Support Vector Machine), Performance of Models, Permutation Importance |
-| Insights          | Data Analysis, Suggestions                                                                                                                            |
+
+_**Data Prepartion**_
+- Data Extraction
+- Data Cleaning
+- Data Merging   
+
+_**Data Manipulation**_
+- Feature Engineering
+- Data Preprocessing 
+
+_**Modelling**_
+- Models (Bernoulli, Logistic Regression, Random Forest, Extra Trees, Light GBM, Support Vector Machine)
+- Performance of Models
+- Permutation Importance
+
+_**Insights**_
+- Data Analysis
+- Suggestions
 
 ## Conclusions/recommendations
 
