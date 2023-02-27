@@ -21,3 +21,11 @@ To identify the important features that make employees more likely to leave and 
 | Area of Focus | Employee Experience, Programs and Benefits, Career Planning and Progression, Performance Guidance/Training, Career Management |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Suggestions   | Predict Proba, using Attrition % instead, Tackle imbalanced dataset, include data of more years, more features, clustering    |
+
+| Conclusion    | Details                                                                                                                       |   |   |   |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| Area of Focus | Employee Experience, Programs and Benefits, Career Planning and Progression, Performance Guidance/Training, Career Management |   |   |   |
+| Suggestions   | Predict Proba, using Attrition % instead, Tackle imbalanced dataset, include data of more years, more features, clustering    |   |   |   |
+|               |                                                                                                                               |   |   |   |
+|               |                                                                                                                               |   |   |   |
+|               |                                                                                                                               |   |   |   |
