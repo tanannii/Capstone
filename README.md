@@ -18,7 +18,7 @@ To identify the important features that make employees more likely to leave and 
 
 ## Conclusions/recommendations
 
-1. Area of Focus
+_**Area of Focus**_
 - Employee Experience
 - Programs and Benefits
 - Career Planning and Progression
