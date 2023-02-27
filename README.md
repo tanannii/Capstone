@@ -25,10 +25,12 @@ _**Area of Focus**_
 - Performance Guidance/Training
 - Career Management
 
-| Conclusion    | Details                                                                                                                       |   |   |   |
-|---------------|-------------------------------------------------------------------------------------------------------------------------------|---|---|---|
-| Area of Focus | Employee Experience, Programs and Benefits, Career Planning and Progression, Performance Guidance/Training, Career Management |   |   |   |
-| Suggestions   | Predict Proba, using Attrition % instead, Tackle imbalanced dataset, include data of more years, more features, clustering    |   |   |   |
-|               |                                                                                                                               |   |   |   |
-|               |                                                                                                                               |   |   |   |
-|               |                                                                                                                               |   |   |   |
+
+_**Suggestions**_
+- Predict Proba
+- Using Attrition % instead
+- Tackle imbalanced dataset
+- Include data of more years
+- More features
+- Clustering
+
