@@ -8,6 +8,13 @@ Mindset has shifted, employees are looking for more than just compensation. They
 ## The Problem Statement
 To identify the important features that make employees more likely to leave and use the insights to produce action plans to mitigate attrition.
 
+## Note
+Due to confidentiality, the following has been done:
+- Data used is a combination of real and fictatious data
+- Dataset has not been uploaded
+- Uploaded codes have been simplified 
+- Details on processes can be found in the slides
+
 ## Process
 
 _**Data Prepartion**_
